@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/XcfWh7FX5QpFKWFb9rXqFw/QMvYLwDzED7xicMnSN2Hoo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/XcfWh7FX5QpFKWFb9rXqFw/QMvYLwDzED7xicMnSN2Hoo/tree/main)
+
 # rdesktop
 
 rdesktop is a remote desktop solution based on the LinuxServer.io Ubuntu Image, enhanced with additional tools specifically useful for 3D printing when I'm not at my computer.
